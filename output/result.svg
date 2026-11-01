@@ -35,18 +35,18 @@
 <polyline class='level-v' points='295,122 320,144 345,122'/> 
     
     
-    <text x="320" y="48" class="nickname desc" text-anchor="middle" style="font-size:0.96rem;">박승찬</text>
+    <text x="320" y="48" class="nickname desc" text-anchor="middle" style="font-size:1.07rem;">natalie</text>
     <text x="90" y="90" class="info-label" text-anchor="end">Level</text>
     <text x="120" y="90" class="desc" text-anchor="start">2</text>
     <text x="200" y="90" class="desc-2" text-anchor="start">level</text>
     <text x="90" y="120" class="info-label" text-anchor="end">Rate</text>
-    <text x="120" y="120" class="desc" text-anchor="start">1,282</text>
+    <text x="120" y="120" class="desc" text-anchor="start">1,289</text>
     <text x="200" y="120" class="desc-2" text-anchor="start">pt</text>
     <text x="90" y="150" class="info-label" text-anchor="end">Solved</text>
-    <text x="120" y="150" class="desc" text-anchor="start">112</text>
+    <text x="120" y="150" class="desc" text-anchor="start">143</text>
     <text x="200" y="150" class="desc-2" text-anchor="start">problems</text>
     <text x="90" y="180" class="info-label" text-anchor="end">Rank</text>
-    <text x="120" y="180" class="desc" text-anchor="start">72,668</text>
+    <text x="120" y="180" class="desc" text-anchor="start">70,424</text>
     <text x="200" y="180" class="desc-2" text-anchor="start">th</text>
   </g>
 </svg> 
